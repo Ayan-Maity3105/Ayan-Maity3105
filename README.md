@@ -59,8 +59,6 @@
 
 ## 🐍 Contribution Snake Animation
 
-Add this AFTER creating a workflow (Steps below 👇)
-
 ![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
