@@ -1,6 +1,6 @@
 <!-- Animated Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hi+👋+I'm+Ayan+Maity;Full+Stack+Developer;IoT+Enthusiast;BScIT+Final+Year+Student;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hi+👋+I'm+Ayan+Maity;Full+Stack+Developer;IoT+Enthusiast;Flutter+Developer;BScIT+Second+Year+Student;Always+Learning+🚀" />
 </h1>
 
 <h3 align="center">💻 Building Scalable Flutter & IoT Systems</h3>
