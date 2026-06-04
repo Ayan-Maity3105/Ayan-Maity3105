@@ -1,75 +1,110 @@
-<!-- Animated Typing Intro -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hi+👋+I'm+Ayan+Maity;Full+Stack+Developer;IoT+Enthusiast;Flutter+Developer;BScIT+Second+Year+Student;Always+Learning+🚀" />
-</h1>
-
-<h3 align="center">💻 Building Scalable Flutter & IoT Systems</h3>
-
----
-
-## 🚀 About Me
-
-- 🎓 Second Year **BScIT Student**
-- 💻 Passionate about **Full Stack Development**
-- 🔬 Working on **IoT + Flutter Integration**
-- 🌱 Currently learning **Flutter & Advanced Backend**
-- 🎯 Goal: Becoming a Professional Full Stack Developer
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap)
-
-### 🛠 Backend
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java)
-![Servlets](https://img.shields.io/badge/Servlets-000000?style=for-the-badge)
-
-### 🗄 Database
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
-![Hive](https://img.shields.io/badge/Hive-000000?style=for-the-badge)
-
-### 📱 Mobile & IoT
-![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge)
-![MQTT](https://img.shields.io/badge/MQTT-000000?style=for-the-badge)
-
----
-
-## 📌 Featured Projects
-
-- 💬 **iTalks** – Discussion Forum Platform
-- 🌊 **IoT Water Quality Monitoring System**
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">Ayan Maity</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayan-Maity3105&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayan-Maity3105&layout=compact&theme=tokyonight" />
+  <strong>Full Stack Developer</strong> &nbsp;·&nbsp; Flutter &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; Mumbai, India
+</p>
+
+<p align="center">
+  <a href="mailto:maityayan473@gmail.com">
+    <img src="https://img.shields.io/badge/maityayan473@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Ayan-Maity3105">
+    <img src="https://img.shields.io/badge/GitHub-Ayan--Maity3105-181717?style=flat-square&logo=github" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/ayan3105">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🐍 Contribution Snake Animation
+## About
 
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg)
+I'm a final-year BScIT student at **Bhavan's College, Andheri** (CGPA: 9.65 / 10) with a strong focus on building full-stack products from scratch — from hardware sensors to mobile interfaces to secured backend APIs.
+
+My work spans mobile apps (Flutter), REST APIs (Spring Boot + JWT), IoT systems (ESP32 + MQTT), and blockchain integrations (Web3j + Ganache). I prefer shipping working software over theory, and I document everything so others can build on it.
+
+Currently building **Veridoc** — a hybrid certificate verification system that anchors SHA-256 document hashes on a private blockchain to make tampering detectable.
+
+Open to **Software Development Internship** roles.
 
 ---
 
-## 📫 Connect With Me
+## Projects
 
-- 📧 Email: maityayan473@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/ayan3105/
+### 💸 SpendSmart — Expense Tracker
+> Full-stack expense management app with a CI/CD pipeline deployed to production.
+
+- Spring Boot backend deployed on Render (Dockerized), MySQL on Railway
+- Flutter Web frontend hosted on Firebase with GitHub Actions CI/CD
+- SplashScreen auth persistence pattern; UptimeRobot for cold-start prevention
+
+`Flutter` `Spring Boot` `MySQL` `Docker` `Firebase Hosting` `GitHub Actions`
+
+---
+
+### 💧 AquaSense — IoT Water Quality Monitor
+> Real-time water quality monitoring using embedded sensors and a live mobile dashboard.
+
+- ESP32 reads sensor data and publishes via MQTT broker
+- Flutter app subscribes and renders live quality readings with threshold alerts
+
+`ESP32` `MQTT` `Flutter` `IoT` `Dart`
+
+---
+
+### 🔐 AuthApp — JWT Authentication API
+> Production-ready stateless authentication REST API.
+
+- Custom `JwtFilter` extending `OncePerRequestFilter`, HMAC-SHA256 token signing
+- BCrypt password hashing, Spring Security filter chain, DTO-validated endpoints
+
+`Spring Boot` `Spring Security` `JWT` `MySQL` `JPA`
+
+---
+
+### 🗣️ iTalks — Discussion Forum
+> Real-time discussion platform with session auth and dynamic post loading.
+
+`PHP` `MySQL` `AJAX` `HTML/CSS`
+
+---
+
+## Tech Stack
+
+| Domain | Tools |
+|---|---|
+| Mobile | Flutter · Dart |
+| Backend | Spring Boot · Java · PHP |
+| Security | Spring Security · JWT · BCrypt |
+| Database | MySQL · JPA / Hibernate |
+| Blockchain | Web3j · Solidity · Ganache |
+| IoT | ESP32 · MQTT |
+| DevOps | Docker · GitHub Actions · Firebase Hosting · Render · Railway |
+| Frontend | React · HTML · CSS |
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayan-Maity3105&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=111&text_color=444&icon_color=111" height="150" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayan-Maity3105&layout=compact&theme=default&hide_border=true&title_color=111&text_color=444" height="150" />
+</p>
+
+---
+
+## Currently
+
+- 🏗 &nbsp;Finishing the Flutter frontend for **Veridoc**
+- 📖 &nbsp;Studying **System Design** and **Microservices Architecture**
+- 🎯 &nbsp;Actively interviewing for **Software Development Internships**
 
 ---
 
 <p align="center">
-  🚀 “Consistency Beats Talent When Talent Doesn’t Work Hard.”
+  <sub>Always building. Always shipping.</sub>
 </p>
