@@ -90,11 +90,13 @@ Open to **Software Development Internship** roles.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayan-Maity3105&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=111&text_color=444&icon_color=111" height="150" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayan-Maity3105&layout=compact&theme=default&hide_border=true&title_color=111&text_color=444" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayan-Maity3105&theme=default" width="100%" />
 </p>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayan-Maity3105&theme=default" height="150" />
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayan-Maity3105&theme=default" height="150" />
+</p>
 ---
 
 ## Currently
