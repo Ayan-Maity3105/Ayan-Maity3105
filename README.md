@@ -1,7 +1,7 @@
-<h1 align="center">Ayan Maity</h1>
+<h1 align="center">Hi, I'm Ayan Maity 👋</h1>
 
 <p align="center">
-  <strong>Full Stack Developer</strong> &nbsp;·&nbsp; Flutter &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; Mumbai, India
+  <strong>Java Backend Developer</strong> &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; React &nbsp;·&nbsp; Mumbai, India
 </p>
 
 <p align="center">
@@ -22,53 +22,82 @@
 
 ## About
 
-I'm a final-year BScIT student at **Bhavan's College, Andheri** (CGPA: 9.65 / 10) with a strong focus on building full-stack products from scratch — from hardware sensors to mobile interfaces to secured backend APIs.
+I’m a BScIT student focused on building secure backend systems and full-stack applications. I enjoy taking projects from database design and API development to deployment.
 
-My work spans mobile apps (Flutter), REST APIs (Spring Boot + JWT), IoT systems (ESP32 + MQTT), and blockchain integrations (Web3j + Ganache). I prefer shipping working software over theory, and I document everything so others can build on it.
+- ☕ **Backend:** Java, Spring Boot, Spring Security, REST APIs
+- 🔐 **Security:** JWT Authentication, Authorization, BCrypt
+- 🗄️ **Database:** MySQL, SQL, JPA/Hibernate
+- 🌐 **Frontend:** React, Flutter, JavaScript
+- 🐳 **DevOps:** Docker, GitHub Actions, CI/CD
+- 🚀 **Currently building:** InternChain — An Internship Lifecycle Management Platform with Blockchain-Based Verification and AI-Powered Analytics
+- 🎯 **Looking for:** Java Backend / Full Stack Developer Intern opportunities
 
-Currently building **Veridoc** — a hybrid certificate verification system that anchors SHA-256 document hashes on a private blockchain to make tampering detectable.
-
-Open to **Software Development Internship** roles.
-
----
-
-## Projects
-
-### 💸 SpendSmart — Expense Tracker
-> Full-stack expense management app with a CI/CD pipeline deployed to production.
-
-- Spring Boot backend deployed on Render (Dockerized), MySQL on Railway
-- Flutter Web frontend hosted on Firebase with GitHub Actions CI/CD
-- SplashScreen auth persistence pattern; UptimeRobot for cold-start prevention
-
-`Flutter` `Spring Boot` `MySQL` `Docker` `Firebase Hosting` `GitHub Actions`
+I believe in learning by building, solving real engineering problems, and documenting my work so others can understand and reproduce it.
 
 ---
 
-### 💧 AquaSense — IoT Water Quality Monitor
-> Real-time water quality monitoring using embedded sensors and a live mobile dashboard.
+## 🚀 Featured Projects
 
-- ESP32 reads sensor data and publishes via MQTT broker
-- Flutter app subscribes and renders live quality readings with threshold alerts
+### 1. InternChain — An Internship Lifecycle Management Platform with Blockchain-Based Verification and AI-Powered Analytics
 
-`ESP32` `MQTT` `Flutter` `IoT` `Dart`
+InternChain is a project designed to streamline internship lifecycle management and support verifiable digital certificates. It combines a Spring Boot backend, React company dashboard, Flutter intern application, and blockchain-based certificate verification.
 
----
+**Tech Stack**
+- **Backend:** Java, Spring Boot, REST APIs
+- **Company Dashboard:** React
+- **Intern Application:** Flutter
+- **Database:** MySQL
+- **Authentication:** JWT
+- **AI Integration:** Gemini API for performance analytics and report generation
+- **Blockchain:** Ganache for certificate verification
+- **Document Integrity:** SHA-256 hashing and QR-code-based verification
 
-### 🔐 AuthApp — JWT Authentication API
-> Production-ready stateless authentication REST API.
+**Key Features**
+- Company and intern workflows for internship management
+- Internship enrollment and task management
+- Feedback and AI-assisted performance reporting
+- Certificate issuance with document-hash verification
+- QR-code-based certificate verification
 
-- Custom `JwtFilter` extending `OncePerRequestFilter`, HMAC-SHA256 token signing
-- BCrypt password hashing, Spring Security filter chain, DTO-validated endpoints
+**Architecture:** Spring Boot backend with separate React and Flutter clients, MySQL persistence, Gemini AI integration, and a blockchain verification workflow.
 
-`Spring Boot` `Spring Security` `JWT` `MySQL` `JPA`
+### 2. LockBox — Secure Vault Application
 
----
+LockBox is a security-focused application designed to store sensitive information such as passwords, API keys, and secure notes. It uses a Spring Boot backend with JWT-based authentication and encryption to help protect stored vault data.
 
-### 🗣️ iTalks — Discussion Forum
-> Real-time discussion platform with session auth and dynamic post loading.
+**Tech Stack**
+- **Backend:** Java, Spring Boot, REST APIs
+- **Frontend:** React
+- **Database:** MySQL
+- **Authentication:** Spring Security and JWT
+- **Security:** Password hashing with BCrypt and encryption for sensitive vault data
 
-`PHP` `MySQL` `AJAX` `HTML/CSS`
+**Key Features**
+- User authentication and protected API endpoints
+- Secure vault-item management
+- Storage of passwords, API keys, and private notes
+- Encryption and decryption of sensitive data
+- Centralized exception handling and request validation
+
+### 3. SpendSmart — Full-Stack Expense Tracker
+
+SpendSmart is a full-stack expense management application built to help users manage and track their expenses. The project covers backend API development, database integration, deployment, and automated CI/CD workflows.
+
+**Tech Stack**
+- **Backend:** Java, Spring Boot, REST APIs
+- **Frontend:** Flutter Web
+- **Database:** MySQL hosted on Aiven
+- **Containerization:** Docker
+- **CI/CD:** GitHub Actions
+- **Deployment:** Render (backend) and Firebase Hosting (frontend)
+
+**Key Features**
+- Expense management through a full-stack application
+- REST API integration between the frontend and backend
+- MySQL database integration
+- Dockerized backend deployment
+- GitHub Actions workflow for continuous integration and deployment
+- Authentication persistence across application sessions
 
 ---
 
@@ -76,14 +105,12 @@ Open to **Software Development Internship** roles.
 
 | Domain | Tools |
 |---|---|
-| Mobile | Flutter · Dart |
-| Backend | Spring Boot · Java · PHP |
+| Frontend | Flutter · React |
+| Backend | Spring Boot · Java · Dart |
 | Security | Spring Security · JWT · BCrypt |
 | Database | MySQL · JPA / Hibernate |
 | Blockchain | Web3j · Solidity · Ganache |
-| IoT | ESP32 · MQTT |
 | DevOps | Docker · GitHub Actions · Firebase Hosting · Render · Railway |
-| Frontend | React · HTML · CSS |
 
 ---
 
@@ -97,15 +124,6 @@ Open to **Software Development Internship** roles.
   &nbsp;&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayan-Maity3105&theme=default" height="150" />
 </p>
----
-
-## Currently
-
-- 🏗 &nbsp;Finishing the Flutter frontend for **Veridoc**
-- 📖 &nbsp;Studying **System Design** and **Microservices Architecture**
-- 🎯 &nbsp;Actively interviewing for **Software Development Internships**
-
----
 
 <p align="center">
   <sub>Always building. Always shipping.</sub>
